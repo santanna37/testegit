@@ -17,3 +17,5 @@ class RepositorioUsuario():
         self.session.refresh(db_usuario)
         return db_usuario
     
+    def listar():
+        pass 

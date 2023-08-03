@@ -13,7 +13,7 @@ COPY requirements.txt requirements.txt
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Copia o diretório src para o diretório /app/src no contêiner
-COPY main.py .
+COPY . . 
 
 # Expõe a porta 8000, que é a porta padrão do Uvicorn
 EXPOSE 8000
