@@ -2,7 +2,8 @@ import random
 
 display_massages = [
     "seja feliz",
-    "fique bem"
+    "fique bem",
+    "fique zen "
 ]
 
 while True:
