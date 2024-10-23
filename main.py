@@ -1,6 +1,7 @@
 import random
 from messages import display_massages
 
+print('say hello')
 
 
 while True:
