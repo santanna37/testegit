@@ -1,5 +1,5 @@
 import random
-from .messages import display_massages
+from messages import display_massages
 
 
 
