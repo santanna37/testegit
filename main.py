@@ -11,4 +11,5 @@ while True:
         menssagem = random.choice(display_massages)
         print(menssagem)
         print('===========')
+        print('mudanças e mais mudanças')
 
