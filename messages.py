@@ -2,5 +2,6 @@ display_massages = [
     "seja feliz",
     "fique bem",
     "fique zen ",
-    "mais uma bobagem"
+    "mais uma bobagem",
+    "continuo fazendo mudnaças"
 ]
